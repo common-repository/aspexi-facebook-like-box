@@ -1,0 +1,348 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aspexi Like Box Slider HD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-30 08:10+0100\n"
+"PO-Revision-Date: 2014-10-22 17:56+0100\n"
+"Last-Translator: Aspexi <info@aspexi.pl>\n"
+"Language-Team: Aspexi <info@aspexi.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../aspexi-facebook-like-box.php:27
+msgid "Plugin adds fancy Facebook Page Plugin (formerly Like Box) slider"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:106 ../aspexi-facebook-like-box.php:352
+msgid "Settings"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:149
+msgid "Aspexi Like Box"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:149
+msgid "Facebook Like Box"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:155
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:172
+msgid "Wrong or missing status. Available statuses: enabled and disabled. Settings not saved."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:183
+msgid "Settings saved."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:342
+msgid "Aspexi Page Plugin (formerly Like Box) Settings"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:357
+msgid "Page Plugin"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:359
+msgid "enabled"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:360
+msgid "disabled"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:364
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:369
+msgid "Page Plugin Height"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:373
+msgid "Page Plugin Width"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:377
+msgid "Show Friends' Faces"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:381
+msgid "Show Posts (Stream)"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:386
+msgid "Hide CTA"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:387
+msgid "Hide the custom call to action button (if available)"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:392
+msgid "Hide Cover"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:392
+msgid "Hide cover photo in the header."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:396
+msgid "Small Header"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:396
+msgid "Use the small header instead."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:400
+msgid "Localization"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:400
+msgid "Change might not be visible immediately due to Facebook / browser cache."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:412 ../aspexi-facebook-like-box.php:449
+#: ../aspexi-facebook-like-box.php:547 ../aspexi-facebook-like-box.php:576
+msgid "Save all settings"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:413 ../aspexi-facebook-like-box.php:450
+#: ../aspexi-facebook-like-box.php:548 ../aspexi-facebook-like-box.php:577
+msgid "Save and preview"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:417
+msgid "Button Settings"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:422
+msgid "Button Space"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:422
+msgid "Space between button and page edge"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:426
+msgid "Button Placement"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:427
+msgid "top of like box"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:428
+msgid "middle of like box"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:429
+msgid "bottom of like box"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:430 ../aspexi-facebook-like-box.php:467
+msgid "fixed"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:431
+msgid "from slider top"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:435
+msgid "Button Image"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:441
+msgid "High Resolution"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:441
+msgid "Use SVG high quality images instead of PNG if possible. Recommended for Retina displays (iPhone, iPad, MacBook Pro)."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:453
+msgid "Advanced Look and Feel"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:458
+msgid "Placement"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:460
+msgid "left"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:461
+msgid "right"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:465
+msgid "Vertical placement"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:466
+msgid "middle"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:468
+msgid "from page top"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:472
+msgid "Border Color"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:476
+msgid "Border Width"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:480
+msgid "Slide on Mouse"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:482
+msgid "hover"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:483
+msgid "click"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:487
+msgid "Slide Time"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:488 ../aspexi-facebook-like-box.php:494
+#: ../aspexi-facebook-like-box.php:501
+msgid "milliseconds"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:491
+msgid "Auto open"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:494
+msgid "Auto open after"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:498
+msgid "Auto close"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:501
+msgid "Auto close after"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:505
+msgid "Auto open when user reaches bottom of the page"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:509
+msgid "Auto open when user reaches position"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:512
+msgid "Auto open when user is"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:514
+msgid "Top"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:515
+msgid "Bottom"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:521
+msgid "Auto open when user reaches element"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:524
+msgid "Auto open when user reaches"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:524
+msgid "(jQuery selector for example #element_id, .some_class)"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:529
+msgid "Delay FB content load"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:529
+msgid "Checking this box will prevent from loading the facebook content while loading the whole page. With this box checked the page will load faster, but facebook content may appear a bit later while opening the box for the first time."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:533
+msgid "Disable on GET"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:533
+msgid "Example: set Parameter=iframe and Value=true. Like Box will be disabled on all URLs like yourwebsite.com/?iframe=true."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:534
+msgid "Parameter"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:535
+msgid "Value"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:539
+msgid "Disable on Small Screens"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:539
+msgid "Dynamically hide the plugin if screen size is smaller than like box size (CSS media query)"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:551
+msgid "Enable on Mobile"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:556
+msgid "iPad & iPod"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:560
+msgid "iPhone"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:564
+msgid "Android"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:568
+msgid "Other Mobile Devices"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:607
+msgid "Get PRO version"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:731
+msgid "qTranslate/mqTranslate"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:731
+msgid "Try to detect qTranslate/mqTranslate language and force it instead of language set in Localization."
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:743
+msgid "Polylang"
+msgstr ""
+
+#: ../aspexi-facebook-like-box.php:743
+msgid "Try to detect Polylang language and force it instead of language set in Localization."
+msgstr ""
